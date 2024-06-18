@@ -11,7 +11,7 @@ I am seeking an entry-level position in software development, web technologies, 
 Below I have I will provide some links on some past projects from I have contributed.
 
 
-School Project(s)
-[Bard Battle](https://github.com/jonathanko500/Bard-Battle)  </br>
+School Project(s)</br>
+*[Bard Battle](https://github.com/jonathanko500/Bard-Battle)  </br>
 
-[Workout Logs](https://github.com/jonathanko500/Workout-Logs)  </br>
+*[Workout Logs](https://github.com/jonathanko500/Workout-Logs)  </br>
