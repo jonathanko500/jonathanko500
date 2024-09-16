@@ -2,7 +2,7 @@
 
 I am Jonathan Ko
 
-As a recent graduate from San Francisco State University with a BS degree in Computer Science, I am eager to embark on my professional career and contribute to projects that have a real-world impact. Over the past six years, I have honed my skills in customer service and people management through my experience as a certified lifeguard. More recently, I have served as the club's webmaster and occasionally as a master swim coach. These roles have reinforced my belief in continuous learning and maintaining a growth mindset.
+As a recent graduate from San Francisco State University with a BS degree in Computer Science, I am eager to embark on my professional career and contribute to projects that have a real-world impact. Over the past six years, I have honed my skills in customer service and people management through my experience as a certified lifeguard. More recently, I have served as Burlingame Aquatic Club's webmaster and occasionally as a master swim coach. These roles have reinforced my belief in continuous learning and maintaining a growth mindset.
 
 I am proficient in several programming languages, including C++, Java, JavaScript, and Python. My technical skills extend to game development with Unity, web development using JavaScript, CSS, HTML, MySQL, and Django, as well as mobile app development for iOS devices using Swift. Additionally, I am knowledgeable about Linux and git usage, which supports my ability to work efficiently in various development environments.
 
